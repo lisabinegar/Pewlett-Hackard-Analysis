@@ -1,4 +1,4 @@
-### Silver Tsunami at Pewett Hackard: An Analysis 
+# Silver Tsunami at Pewett Hackard: An Analysis 
 
 ## Results 
 
